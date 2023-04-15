@@ -1,4 +1,4 @@
-# ChatBot
+# 人工智能
 
 DOMAIN-SUFFIX,openai.com
 DOMAIN-SUFFIX,ai.com
@@ -7,5 +7,4 @@ DOMAIN-SUFFIX,deepl.com
 DOMAIN-SUFFIX,sentry.io
 DOMAIN-SUFFIX,bing.com
 DOMAIN-SUFFIX,bard.google.com
-# 增加一个必须使用美国ip的googlevoice
 DOMAIN-SUFFIX,voice.google.com
